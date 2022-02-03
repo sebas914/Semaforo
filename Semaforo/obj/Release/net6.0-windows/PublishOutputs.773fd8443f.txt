@@ -1,0 +1,5 @@
+C:\Users\Sebastian Alvarez\Desktop\Publicados\Semaforo.exe
+C:\Users\Sebastian Alvarez\Desktop\Publicados\Semaforo.dll
+C:\Users\Sebastian Alvarez\Desktop\Publicados\Semaforo.deps.json
+C:\Users\Sebastian Alvarez\Desktop\Publicados\Semaforo.runtimeconfig.json
+C:\Users\Sebastian Alvarez\Desktop\Publicados\Semaforo.pdb
